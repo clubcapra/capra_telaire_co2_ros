@@ -1,0 +1,4 @@
+<launch>
+    <!-- Capra telaire-->
+    <node pkg="capra_telaire_ros" type="capra_telaire_ros_node" name="telaire" output="screen"></node>
+</launch>
